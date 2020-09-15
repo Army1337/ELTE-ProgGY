@@ -49,9 +49,10 @@ int main()
     else if(a!=0){
         x=-b/a;
     }
+    else{
+        S = "HIBA";
+    }
     cout << S << "   X értéke:" << x<< endl;
 
-
-    cout << "Hello world!" << endl;
     return 0;
 }
