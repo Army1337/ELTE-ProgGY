@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1600799171 source:c:\users\armyv\documents\elte\proggy\elte-proggy\2020_09_15_2ora\házi\buli\barkoba\main.cpp
+	<iostream>
+	<time.h>
+	<cstdlib>
+

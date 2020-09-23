@@ -1,0 +1,16 @@
+1.feladat
+Be: a,b,c eleme R
+Ki: x,abs(x) eleme R
+ef:(a-b)>c vagy (b-a)>c
+uf: x,abs(x)
+
+
+2.feladat
+Be: N eleme Z
+ki: 1,2..N ^2 eleme Z
+ef: N>0
+uf: I==N
+
+
+
+
